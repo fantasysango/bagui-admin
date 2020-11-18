@@ -30,6 +30,12 @@
             component: './Welcome',
           },
           {
+            path: '/new',
+            name: '新页面',
+            icon: 'smile',
+            component: './NewPage',
+          },
+          {
             path: '/admin',
             name: 'admin',
             icon: 'crown',
